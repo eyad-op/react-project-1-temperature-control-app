@@ -1,3 +1,14 @@
+### Learning React by creating small projects
+
+# Temperature control app
+
+## Learning plan for this project
+
+- Set up a React project
+- Using state to display values
+- Changing CSS depending on state
+- Updating state using onClick events
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
